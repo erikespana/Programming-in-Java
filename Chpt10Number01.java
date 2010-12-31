@@ -7,7 +7,6 @@
    string argument is "gravity" the method should display "ytivarg".
    Demonstrate the method in a program that asks the user to input
    a string and then passes it to the method.
-
 */
 
 import java.util.Scanner;  // Needed for the Scanner class
